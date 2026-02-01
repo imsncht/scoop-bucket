@@ -1,19 +1,19 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/imsncht/repo2page/releases/download/v1.0.4/repo2page_1.0.4_windows_amd64.zip",
+            "url": "https://github.com/imsncht/repo2page/releases/download/v1.0.5/repo2page_1.0.5_windows_amd64.zip",
             "bin": [
                 "repo2page.exe"
             ],
-            "hash": "72e96acecfd02ef7c0d1ee032a2c2951d3b26fe26894abab057619860e6575c9"
+            "hash": "0294b4671450e54bff56de99cf5776d3aa02ca29ac54f90d9bee1751798725ca"
         },
         "arm64": {
-            "url": "https://github.com/imsncht/repo2page/releases/download/v1.0.4/repo2page_1.0.4_windows_arm64.zip",
+            "url": "https://github.com/imsncht/repo2page/releases/download/v1.0.5/repo2page_1.0.5_windows_arm64.zip",
             "bin": [
                 "repo2page.exe"
             ],
-            "hash": "986b533dbd70b9208c2c082c9adcee09bce7e9cb3a46fc43990ae3b01b5c5e0c"
+            "hash": "4fb57df5087452f7cf3b0d3e1c9dfd857533540e832089176b061c34294c1f87"
         }
     },
     "homepage": "https://github.com/imsncht/repo2page",
